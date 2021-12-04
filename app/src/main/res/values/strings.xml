@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">17Live Goal</string>
+    <string name="title_main">@string/app_name</string>
+
+    <string name="search_default">Kailin</string>
+    <string name="search_hint">Search repo</string>
+    <string name="item_watch">Watch %d</string>
+    <string name="item_star">Star %d</string>
+    <string name="item_fork">Fork %d</string>
+    <string name="item_last">No more repo…</string>
+</resources>
